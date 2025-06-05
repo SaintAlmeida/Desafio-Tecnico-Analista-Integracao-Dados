@@ -20,7 +20,7 @@ Esta etapa descreve uma abordagem prática e orientada para validar os dados do 
 
 - **Comparação cruzada** entre as tabelas `venda`, `pedido_compra` e `entradas_mercadoria`.
 - Uso de **filtros por período (mês)** para isolar os dados de fevereiro de 2025.
-- **Validação de totalizadores** (SOMAS, contagens, médias) comparando com relatórios paralelos do cliente.
+- **Validação de totalizadores** (Somas, Contagens, Médias) comparando com relatórios paralelos do cliente.
 - Aplicação de **`DISTINCT` e `GROUP BY`** para detectar duplicidades ou inconsistências.
 - **Tratamento de valores nulos** ou faltantes antes de calcular métricas.
 - Verificação do **relacionamento entre IDs** (ex: `produto_id`, `ordem_compra`) para garantir integridade referencial.
