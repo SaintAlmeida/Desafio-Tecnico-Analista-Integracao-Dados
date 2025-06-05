@@ -17,3 +17,5 @@ Repositório do desafio técnico para a vaga de Analista de Integração de Dado
 
 5. **parte3-validacao-cliente.md**  
    Estratégia de validação com o cliente incluindo checklist, técnicas e queries de apoio.
+
+Obs: A pasta img contém os screenshots das consultas/transformações sendo executadas no DBeaver
